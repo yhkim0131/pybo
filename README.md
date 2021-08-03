@@ -3,7 +3,7 @@ Python을 기반으로 한 Webservice 구축
  
 
 1.     Django 관리자 화면 구축
-
+![1](https://user-images.githubusercontent.com/30257107/127992624-e63ce72e-31c0-40c0-a089-52bfc75a0a9c.png)
 
 
  
